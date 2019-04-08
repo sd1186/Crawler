@@ -4,7 +4,17 @@
     "owner": "Stephen"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "Stephen"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Threat tree",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
